@@ -5,15 +5,13 @@
 <h3 align="center">A passionate Software Seveloper from Pretoria, South Africa</h3>
 
 <div align="center">
-    I am Obakeng Pitse, an Entry level Software Developer/ Frontend Developer completed my certificate in Software Development and a Diploma in IT (Intelligent Industrial Systems)
-
    🔭 I’m currently working on **a market place web app**
 
   🌱 I’m currently learning thymeleaf
 
   👯 I’m looking to collaborate on web development projects and desktop applications
 
-  💬 Ask me about anything that is software engineering related. 
+  💬 Ask me about anything that is **software engineering** related. 
 
  ⚡ Fun fact: Outside the world of tech I am curently learning how to play a piano, I am an outgoing person, and I enjoy other peoples company.
 
@@ -31,9 +29,9 @@
   </a>
 </div>
  <br/>
-
-### 🧰 Languages and Tools
-
+<div align="center"> 
+ 🧰 Languages and Tools
+<hr/>
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
 <img align="left" alt="Spring" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
 <img align="left" alt="TypeScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />
@@ -50,7 +48,7 @@
 <img align="left" alt="Bash" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
 <br />
 
-#
+</div>
 
 <div align="center">
   <h2>🐍 My Contributions 🐍</h2>
