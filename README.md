@@ -21,6 +21,20 @@ I am Obakeng Pitse, an Entry level Software Developer/ Frontend Developer comple
 
 - ⚡ Fun fact: Outside the world of tech I am curently learning how to play a piano, I am an outgoing person, and I enjoy other peoples company.
 
+ </div>
+ 
+<div align="center"> 
+  <a href="mailto:obakeng.op@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+  </a>
+  <a href="https://www.linkedin.com/in/obakeng-pitse-8a22621a0/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+  </a>
+  <a href="https://obakengpitse.xyz" target="_blank">
+     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
+  </a>
+</div>
+
 ### 🧰 Languages and Tools
 
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
