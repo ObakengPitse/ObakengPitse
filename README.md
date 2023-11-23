@@ -1,5 +1,8 @@
-### Hi there 👋
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Obakeng+Pitse!;" />
+</h1>
 
+<h3 align="center">A passionate Software Seveloper from Pretoria, South Africa</h3>
 About me
 
 I am Obakeng Pitse, an Entry level Software Developer/ Frontend Developer completed my certificate in Software Development and a Diploma in IT (Intelligent Industrial Systems)
