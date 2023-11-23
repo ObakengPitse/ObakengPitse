@@ -5,13 +5,13 @@
 <h3 align="center">A passionate Software Seveloper from Pretoria, South Africa</h3>
 
 <div align="center">
-   🔭 I’m currently working on **a market place web app**
+   🔭 I’m currently working on <em>a market place web app</em>
 
-  🌱 I’m currently learning thymeleaf
+  🌱 I’m currently learning <em>Anything Realting to Web Development</em>
 
   👯 I’m looking to collaborate on web development projects and desktop applications
 
-  💬 Ask me about anything that is **software engineering** related. 
+  💬 Ask me about anything that is <em>software engineering</em> related. 
 
  ⚡ Fun fact: Outside the world of tech I am curently learning how to play a piano, I am an outgoing person, and I enjoy other peoples company.
 
