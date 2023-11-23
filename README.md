@@ -55,7 +55,7 @@ I am Obakeng Pitse, an Entry level Software Developer/ Frontend Developer comple
 <br />
 
 #
-</div>
+
 <div align="center">
   <h2>🐍 My Contributions 🐍</h2>
   <br>
