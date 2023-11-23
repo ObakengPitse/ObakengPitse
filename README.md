@@ -3,7 +3,6 @@
 </h1>
 
 <h3 align="center">A passionate Software Seveloper from Pretoria, South Africa</h3>
-About me
 
 <div align="center">
     I am Obakeng Pitse, an Entry level Software Developer/ Frontend Developer completed my certificate in Software Development and a Diploma in IT (Intelligent Industrial Systems)
@@ -18,7 +17,7 @@ About me
 
  ⚡ Fun fact: Outside the world of tech I am curently learning how to play a piano, I am an outgoing person, and I enjoy other peoples company.
 
- </div>
+</div>
  
 <div align="center"> 
   <a href="mailto:obakeng.op@gmail.com">
