@@ -11,9 +11,9 @@
 
   👯 I’m looking to collaborate on web development projects and desktop applications
 
-  💬 Ask me about anything that is <strong>software engineering</strong> related. 
+  💬 Ask me about anything that is <strong>software development</strong> related. 
 
- ⚡ Fun fact: Outside the world of tech I am curently learning how to play a piano, I also an outgoing person.
+ ⚡ Fun fact: Outside the world of tech I am curently learning how to play a piano, I am also an outgoing person.
 
 </div>
  
